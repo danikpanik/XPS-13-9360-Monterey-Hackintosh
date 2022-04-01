@@ -1,4 +1,4 @@
-### XPS 13 9360 Hackintosh running macOS Monterey 12.2.1
+### XPS 13 9360 Hackintosh running macOS Monterey
 
 #
 
