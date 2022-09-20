@@ -2,7 +2,7 @@
 
 #
 
-### OpenCore 0.7.8 | macOS Monterey 12.2.1
+### OpenCore 0.8.2 | macOS Monterey 12.4 | Updated 09/20/2022
 #
 
 
