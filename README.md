@@ -11,8 +11,8 @@
 
 ### 📸 About
 
-![About](_resources/about.png)
-![About](_resources/neofetch.png)
+![About](_resources/about_12.4.png)
+![About](_resources/neofetch_12.4.png)
 #
 
 ### 💻 Hardware
