@@ -47,7 +47,7 @@
 #
 
 ### ❌ Not Working:
-*  Thunderbolt hotplug
+*  Thunderbolt hotplug 
 *  SD card reader (never use it - disabled in BIOS)
 #
 
@@ -57,7 +57,9 @@
 2. Update BIOS to the latest version
 #
 
-### 🤖 Updated 09/20/2022
+### 🔔 Updated:
+* ~~04/01/2022~~
+* 09/20/2022
 #
 
 ### 🙏 Credits - 
