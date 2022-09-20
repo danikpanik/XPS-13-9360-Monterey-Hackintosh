@@ -2,7 +2,7 @@
 
 #
 
-### OpenCore 0.8.2 | macOS Monterey 12.4 | Updated 09/20/2022
+### OpenCore 0.8.2 | macOS Monterey 12.4 |
 #
 
 
@@ -56,7 +56,10 @@
 1. Fill the [SMBIOS](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#platforminfo) section according to this guide. 
 2. Update BIOS to the latest version
 #
-  
+
+### 🤖 Updated 09/20/2022
+#
+
 ### 🙏 Credits - 
   
  1. A huge thanks to [dortania](https://dortania.github.io/OpenCore-Install-Guide/) for their incredibly detailed guide.
