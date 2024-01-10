@@ -57,6 +57,15 @@
 2. Update BIOS to the latest version
 #
 
+### DVMT (❗️Important! Without this step, video won't work and you'll get kernel panic❗️)
+
+Add/Enable DVMT.efi in OpenCore tools. Boot into OpenCore and press spacebar to show tools. Select DVMT.efi. Once booted run the following commands
+```
+  setup_var 0x4de 0x00  // Disable CFG Lock
+  setup_var 0x785 0x06  // Increase DVMT pre-allocated size to 192M For FHD version, it's also recommended setting to 192M
+  setup_var 0x786 0x03  // Increase CFG Memory to maximum
+```
+
 ### 🔔 Updated:
 * ~~04/01/2022 OC 0.7.8 macOS 12.2.1~~
 * 09/20/2022 OC 0.8.2 macOS 12.4
